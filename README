@@ -3,7 +3,7 @@ NAME
     Implement PHP's best features with PSGI!
 
 VERSION
-    version 3.000000
+    version 3.000100
 
 SYNOPSIS
      builder {

@@ -1,6 +1,6 @@
 package Plack::Middleware::Acme::PHPE9568F34::D428::11d2::A769::00AA001ACF42;
 BEGIN {
-  $Plack::Middleware::Acme::PHPE9568F34::D428::11d2::A769::00AA001ACF42::VERSION = '3.000000';
+  $Plack::Middleware::Acme::PHPE9568F34::D428::11d2::A769::00AA001ACF42::VERSION = '3.000100';
 }
 
 # ABSTRACT: Implement PHP's best features with PSGI!
@@ -61,7 +61,7 @@ Plack::Middleware::Acme::PHPE9568F34::D428::11d2::A769::00AA001ACF42 - Implement
 
 =head1 VERSION
 
-version 3.000000
+version 3.000100
 
 =head1 SYNOPSIS
 
