@@ -4,7 +4,7 @@
       "Arthur Axel \"fREW\" Schmidt <frioux+cpan@gmail.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 4.200007, CPAN::Meta::Converter version 2.110930",
+   "generated_by" : "Dist::Zilla version 4.300028, CPAN::Meta::Converter version 2.120921",
    "license" : [
       "perl_5"
    ],
@@ -19,10 +19,15 @@
             "ExtUtils::MakeMaker" : "6.30"
          }
       },
+      "develop" : {
+         "requires" : {
+            "Test::Pod" : "1.41"
+         }
+      },
       "runtime" : {
          "requires" : {
-            "Data::Section" : 0,
-            "MIME::Base64" : 0,
+            "Data::Section" : "0",
+            "MIME::Base64" : "0",
             "Plack" : "0.9979",
             "Test::More" : "0.88"
          }
@@ -32,10 +37,10 @@
    "resources" : {
       "repository" : {
          "type" : "git",
-         "url" : "git://github.com/frioux/Plack-Middleware-Acme-PHPE9568F34-D428-11d2-A769-00AA001ACF42.git",
+         "url" : "git://github.com/frioux/Plack-Middleware-Acme-PHPE9568F34-D428-11d2-A769-00AA001ACF42",
          "web" : "http://github.com/frioux/Plack-Middleware-Acme-PHPE9568F34-D428-11d2-A769-00AA001ACF42"
       }
    },
-   "version" : "3.140000"
+   "version" : "3.141000"
 }
 

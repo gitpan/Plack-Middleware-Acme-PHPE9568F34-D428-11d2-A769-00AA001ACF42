@@ -1,6 +1,6 @@
 package Plack::Middleware::Acme::PHPE9568F34::D428::11d2::A769::00AA001ACF42;
-BEGIN {
-  $Plack::Middleware::Acme::PHPE9568F34::D428::11d2::A769::00AA001ACF42::VERSION = '3.140000';
+{
+  $Plack::Middleware::Acme::PHPE9568F34::D428::11d2::A769::00AA001ACF42::VERSION = '3.141000';
 }
 
 # ABSTRACT: Implement PHP's best features with PSGI!
@@ -48,9 +48,6 @@ sub call {
 
 1;
 
-
-
-
 =pod
 
 =head1 NAME
@@ -59,7 +56,7 @@ Plack::Middleware::Acme::PHPE9568F34::D428::11d2::A769::00AA001ACF42 - Implement
 
 =head1 VERSION
 
-version 3.140000
+version 3.141000
 
 =head1 SYNOPSIS
 
@@ -80,13 +77,12 @@ Arthur Axel "fREW" Schmidt <frioux+cpan@gmail.com>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2011 by Arthur Axel "fREW" Schmidt.
+This software is copyright (c) 2012 by Arthur Axel "fREW" Schmidt.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
 
 =cut
-
 
 __DATA__
 __[ logo ]__
